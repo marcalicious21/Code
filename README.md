@@ -1,2 +1,2 @@
 # Code
-Codes I Have Finished
+These are coding projects that I have finished and are working.
